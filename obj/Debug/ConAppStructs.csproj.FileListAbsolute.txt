@@ -1,0 +1,8 @@
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\bin\Debug\ConAppStructs.exe.config
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\bin\Debug\ConAppStructs.exe
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\bin\Debug\ConAppStructs.pdb
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\obj\Debug\ConAppStructs.csproj.AssemblyReference.cache
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\obj\Debug\ConAppStructs.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\obj\Debug\ConAppStructs.csproj.CoreCompileInputs.cache
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\obj\Debug\ConAppStructs.exe
+D:\Mphasis\Assested Projects\ConAppStructs\ConAppStructs\obj\Debug\ConAppStructs.pdb
